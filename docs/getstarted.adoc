@@ -18,9 +18,11 @@ These are minimal hardware requirements
 *** 20 Gb /
 *** 40 Gb /var
 ** device 2 (for container runtime storage)
-*** 40 Gb (no file system or mount needed)
+*** 15 Gb (no file system or mount needed)
 ** device 3 (for Openshift Container Storage)
 *** 100+ Gb (no file system or mount needed)
+
+
 
 All hosts should be identical
 
